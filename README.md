@@ -20,46 +20,18 @@ No fim das contas, meu foco é sempre o mesmo: criar soluções simples, organiz
 Fora do trabalho, gosto ir à academia e jogar no computador com amigos.
 
 ## 🧠 Skills & Ferramentas
-
-### 📊 Data & BI
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
-
-### 🗄️ Dados & Automação
-
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)
-
-### 📈 Análise & Suporte
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
-### 🎨 Design & Visual
-
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 
----
+## ⚡ Objetivo
 
-## 📊 Projetos em Destaque
-
-### 📌 Dashboard de Vendas
-
-📈 Projeto focado na análise de indicadores comerciais, com visual limpo e orientado à tomada de decisão.
-
-🔹 Principais pontos:
-
-* Modelagem de dados eficiente
-* Criação de métricas com DAX
-* Visualização clara e estratégica
-
----
-
-## 📚 Atualmente estudando
-
-🐍 Python para análise de dados
+Busco oportunidades onde eu possa aplicar minhas habilidades em dados para gerar valor real ao negócio, além de continuar evoluindo tecnicamente na área de Data & BI.
 
 ---
 
@@ -70,12 +42,6 @@ https://www.linkedin.com/in/thiago-nascimento-451071203/
 
 📧 Email:
 [th.nsoliveira@gmail.com](mailto:th.nsoliveira@gmail.com)
-
----
-
-## ⚡ Objetivo
-
-Busco oportunidades onde eu possa aplicar minhas habilidades em dados para gerar valor real ao negócio, além de continuar evoluindo tecnicamente na área de Data & BI.
 
 ---
 
