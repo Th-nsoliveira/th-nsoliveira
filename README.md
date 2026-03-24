@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Thiago Oliveira
 
 🎯 **Analista de Dados | BI Analyst**
-📊 Transformando dados em decisões estratégicas
+
 
 ---
 
